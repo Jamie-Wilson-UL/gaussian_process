@@ -3,5 +3,5 @@ matplotlib
 scipy
 seaborn
 pandas
-sklearn
+scikit-learn
 datetime
